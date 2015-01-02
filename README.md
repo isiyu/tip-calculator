@@ -19,9 +19,11 @@ Optional Tasks:
 
 
 Entering Values
+
 ![Video Walkthrough](tipApp01.gif)
 
 Updating settings
+
 ![Video Walkthrough](tipApp02.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
