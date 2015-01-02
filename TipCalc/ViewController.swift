@@ -281,8 +281,8 @@ class ViewController: UIViewController{
         defaults.synchronize()
         
         // refresh the control containers visability
-        updateCalculatedTips()
         refreshContainerViewsVisability()
+        updateCalculatedTips()
     }
     
     func refreshContainerViewsVisability(){
